@@ -22,4 +22,4 @@ O **UrbanSpace** é mais do que um evento, é uma oportunidade de explorar novas
 
 ## 📸 Demonstração
 
-![Demonstração do projeto](img/tela.png)
+![Demonstração do projeto](/html_css_landing_page-main/img/tela.png)
